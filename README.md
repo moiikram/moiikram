@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋. This is Ikram Khan and here's a few things about me:
+
+- I'm a recent graduate from University of Manitoba.
+- Major in Computer Science with a specialisation in software engineering.
+- Interested in full-stack development.
+- 📫 Reach me at ikramk409@gmail.com
 
 <!--
 **moiikram/moiikram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
